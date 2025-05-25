@@ -1,49 +1,48 @@
-# Hey there! 👋 I'm Arti Shelar
+# 👋 Hey, I’m Arti Shelar — Your Friendly Data & Space Explorer!
 
-> **Tech enthusiast | AI Intern | Problem Solver | Innovator in the making**
-
----
-
-### 🚀 About Me
-I'm a passionate tech explorer driven by curiosity and innovation. With a knack for diving deep into AI, IoT, and automation, I’m on a mission to build smarter, simpler solutions that make life easier and more exciting.
-
-I thrive on challenges — whether it’s cracking tough code, building voice-controlled IoT systems, or developing AI-powered projects. Always learning, always growing.
+🚀 Explorer of data galaxies, tinkerer of smart gadgets, and a quantum dreamer on a mission to make tech fun and useful.
 
 ---
 
-### 💡 What I Do
-- **AI & Machine Learning:** Building smart systems with Python, deep learning, and data science techniques  
-- **IoT & Embedded Systems:** Crafting voice-controlled LED setups & smart devices using ESP8266, MQTT, and Arduino  
-- **Automation & Tools:** Creating practical automation workflows to boost efficiency  
-- **Streamlit & Web Apps:** Designing sleek, user-friendly interfaces for file operations and AI tutors  
-- **Passion Projects:** Exploring space tech,data science, and quantum computing (yeah, I think big!)  
+### 🌟 What Lights Me Up
+- Diving deep into data oceans to discover hidden treasures  
+- Building cool gadgets that listen and talk (voice-controlled LEDs, anyone?)  
+- Playing with quantum puzzles — because why not?  
+- Gazing at the stars and dreaming of space tech adventures  
 
 ---
 
-### 🌱 Current Focus
-- Leveling up deep learning skills using pretrained embeddings like GloVe & Word2Vec  
-- Developing AI-driven personalized education systems — tailoring learning paths for students  
-- Enhancing voice control in IoT projects with natural language interfaces  
----
-
-### 🛠️ Tech Stack
-Python | Streamlit | Arduino IDE | MQTT | ESP8266 | TensorFlow | MYSQL | OpenCV | Numpy | Pandas | Jupyter | VS Code  
+### 🎉 Some Cool Stuff I’ve Done
+- Rocked the *Sanjivani 2K25* hackathon with my voice-controlled LED project — it listens, it shines!  
+- Completed a 3-month AI internship — where I learned to teach computers new tricks  
+- Known for sparking creative ideas, teaming up smoothly, and making things happen  
 
 ---
 
-### 📫 Connect with Me
-Let’s collaborate, share ideas, or just geek out on tech trends!
+### 🚧 What I’m Cooking Up Right Now
+- Learning apps that actually learn YOU (no, really!)  
+- Smart home gadgets that respond to your voice like magic  
+- Quantum computing experiments — exploring the weird and wonderful world of qubits  
+- Crunching space data to see what secrets the stars hold  
+
+---
+
+### 🛠️ My Toolbox
+Python | Pandas | IoT (ESP8266 & MQTT) | Streamlit | MYSQL | NUMPY | Streamlit | Jupyter   
+
+---
+
+### 📫 Wanna Chat?
+I’m always down to swap ideas or work on cool tech projects. Let’s connect and make some magic!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/arti-shelar-a6b269291) | 📧 shelararti10@gmail.com  
 
 ---
 
-### ⚡ Fun Fact
-I love watching kids play in the university garden — their curiosity inspires my own innovation journey.
+### ✨ Fun Fact  
+I believe the best ideas come from curiosity — and watching kids play reminds me to never stop wondering.
 
 ---
 
-Thanks for stopping by!  
-Feel free to explore my repos and reach out — the future’s bright when we build it together. ✨
+Thanks for dropping by! Ready to build the future together? Let’s blast off 🚀🌌
 
----
