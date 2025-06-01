@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Arti Shelar — Your Friendly Data & Space Explorer!
+# 👋 Hey, I’m Arti Shelar — Your Friendly Data & AI Explorer!
 
-🚀 Explorer of data galaxies, tinkerer of smart gadgets, and a quantum dreamer on a mission to make tech fun and useful.
+🚀 Explorer of data galaxies, tinkerer of smart gadgets, and a dreamer on a mission to make tech fun and useful.
 
 ---
 
@@ -23,7 +23,6 @@
 - Learning apps that actually learn YOU (no, really!)  
 - Smart home gadgets that respond to your voice like magic  
 - Quantum computing experiments — exploring the weird and wonderful world of qubits  
-- Crunching space data to see what secrets the stars hold  
 
 ---
 
