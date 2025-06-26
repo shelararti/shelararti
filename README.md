@@ -1,13 +1,8 @@
 <h3 align="center" style="font-size: 22px; color: #8AFFEF;">✨ Hey there, I’m</h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&height=70&lines=Arti+Shelar+%F0%9F%9A%80;Data+%7C+AI+%7C+IoT+%7C+Enthusiast;Turning+Tech+into+Magic+%F0%9F%A7%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=38&pause=1000&color=00E0FF&center=true&vCenter=true&width=750&height=70&lines=Arti+Shelar+%F0%9F%9A%80;DATA+%7C+AI+%7C+IoT+%7C+ENTHUSIAST;LEARNING.+BUILDING.+GROWING.+%F0%9F%A7%A8" />
 </h1>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/61/ea/c6/61eac649987be96a1a42d82f5e2f598d.gif" width="75%" alt="Futuristic Tech Girl" />
-</p>
-
 
 <hr style="border: 1px solid #8AFFEF; width: 80%;">
 
