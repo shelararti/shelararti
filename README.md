@@ -1,7 +1,7 @@
 <h3 align="center" style="font-size: 22px; color: #8AFFEF;">✨ Hey there, I’m</h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&height=70&lines=Arti+Shelar+%F0%9F%9A%80;Data+%7C+AI+%7C+IoT+%7C+Quantum+Enthusiast;Turning+Tech+into+Magic+%F0%9F%A7%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&height=70&lines=Arti+Shelar+%F0%9F%9A%80;Data+%7C+AI+%7C+IoT+%7C+Enthusiast;Turning+Tech+into+Magic+%F0%9F%A7%A8" />
 </h1>
 
 <p align="center">
