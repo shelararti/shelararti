@@ -11,8 +11,6 @@
 
 <hr style="border: 1px solid #8AFFEF; width: 80%;">
 
----
-
 ## 💫 About Me  
 <div align="justify">
 
@@ -119,7 +117,7 @@ You’ll usually find me tinkering with ESP8266 boards, building Streamlit dashb
 <p align="center">
   <a href="https://www.linkedin.com/in/arti-shelar-a6b269291"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="mailto:shelararti10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://github.com/arti-shelar"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+  <a href="https://github.com/shelararti"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
 
 ---
