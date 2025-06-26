@@ -1,126 +1,117 @@
 <h3 align="center" style="font-size: 22px; color: #8AFFEF;">✨ Hey there, I’m</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=38&pause=1000&color=00E0FF&center=true&vCenter=true&width=750&height=70&lines=Arti+Shelar+%F0%9F%9A%80;DATA+%7C+AI+%7C+IoT+%7C+ENTHUSIAST;LEARNING.+BUILDING.+GROWING.+%F0%9F%A7%A8" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=26&pause=1000&color=00E0FF&center=true&vCenter=true&width=650&lines=Arti+Shelar+;Arti+Shelar+;DATA+%7C+AI+%7C+IoT+%7C+ENTHUSIAST;LEARNING.+BUILDING.+GROWING.+🚀" />
+</p>
 
-<hr style="border: 1px solid #8AFFEF; width: 80%;">
+---
 
-## 💫 About Me  
-<div align="justify">
+<h2 align="center">💫 About Me</h2>
 
-Hey! I’m <strong>Arti Shelar</strong> — a curious mind exploring the edges of Data, AI, and futuristic tech.  
-I build things that *listen, learn, and light up* — from voice-controlled LEDs to AI tutors, and even experiments with quantum circuits 🧠⚡  
-You’ll usually find me tinkering with ESP8266 boards, building Streamlit dashboards, or diving deep into models that can actually understand.
-
+<div align="center">
+  <div align="justify" style="width: 80%; margin: auto;">
+    Hey! I’m <strong>Arti Shelar</strong> — a curious mind exploring the edges of Data, AI, and futuristic tech.  
+    I build things that <em>listen, learn, and light up</em> — from voice-controlled LEDs to AI tutors, and even experiments with quantum circuits 🧠⚡  
+    You’ll usually find me tinkering with ESP8266 boards, building Streamlit dashboards, or diving deep into models that can actually understand.
+  </div>
 </div>
 
----
+<hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
 
-## 🛠️ My Toolbox  
-<p align="center">
-  Technologies, tools, and frameworks I use to build magical tech 👇
-</p>
+<h2 align="center">🛠️ My Toolbox</h2>
 
-<table align="center" style="border: none;">
+<table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="48" /><br><b>Python</b>
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br><b>Python</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="48" /><br><b>Streamlit</b>
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" alt="NumPy"/><br><b>NumPy</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br><b>MySQL</b>
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" alt="Pandas"/><br><b>Pandas</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" /><br><b>Arduino IDE</b>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL"/><br><b>SQL</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="48" /><br><b>GitHub</b>
+      <img src="https://skillicons.dev/icons?i=matplotlib" width="48" alt="Matplotlib"/><br><b>Matplotlib</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br><b>HTML</b>
+      <img src="https://skillicons.dev/icons?i=streamlit" width="48" alt="Streamlit"/><br><b>Streamlit</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="48" /><br><b>CSS</b>
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br><b>HTML</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><b>Jupyter</b>
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" alt="Jupyter"/><br><b>Jupyter</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br><b>Linux</b>
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br><b>GitHub</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" /><br><b>Vercel</b>
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino IDE"/><br><b>Arduino IDE</b>
     </td>
   </tr>
 </table>
 
----
+<hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
 
-## 🧠 Featured Projects
+<h2 align="center">🧠 Featured Projects</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      
-### 🔊 Voice-Controlled LED System  
-> 🎤 Powered by **Google Assistant**, **MQTT**, and **ESP8266**  
-> 💡 Built for **Sanjivani 2K25 Hackathon**  
-> 🎥 *Demo available on request*  
-> 🔗 [View on GitHub](https://github.com/your-repo)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IoT-ESP8266-blue?style=flat-square&logo=arduino" />
-  <img src="https://img.shields.io/badge/Protocol-MQTT-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voice-Google_Assistant-red?style=flat-square&logo=googleassistant" />
-</p>
-
-  </td>
-  <td width="50%">
-
-### 🧠 AI Tutor: Personalized Learning  
-> 🤖 Built with **Deep Learning**, **Streamlit**, and **Optimization**  
-> 📈 Tracks timed MCQs and adapts learning paths  
-> 🎯 Goal: Smart, student-first education  
-> 🔗 [Coming Soon / GitHub Link](https://github.com/your-ai-tutor-repo)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AI-LSTM-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dashboard-Streamlit-orange?style=flat-square&logo=streamlit" />
-  <img src="https://img.shields.io/badge/Tracking-Analytics-brightgreen?style=flat-square" />
-</p>
-
-  </td>
+    <td width="50%" valign="top">
+      <h3>🔊 Voice-Controlled LED System</h3>
+      <blockquote>
+        🎤 Powered by <strong>Google Assistant</strong>, <strong>MQTT</strong>, and <strong>ESP8266</strong><br>
+        💡 Built for <em>Sanjivani 2K25 Hackathon</em><br>
+        🎥 Demo available on request<br>
+        🔗 <a href="https://github.com/your-repo">View on GitHub</a>
+      </blockquote>
+      <p align="left">
+        <img src="https://img.shields.io/badge/IoT-ESP8266-blue?style=flat-square&logo=arduino" />
+        <img src="https://img.shields.io/badge/Protocol-MQTT-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Voice-Google_Assistant-red?style=flat-square&logo=googleassistant" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Tutor: Personalized Learning</h3>
+      <blockquote>
+        🤖 Built with <strong>Deep Learning</strong>, <strong>Streamlit</strong>, and <strong>Optimization</strong><br>
+        📈 Tracks timed MCQs and adapts learning paths<br>
+        🎯 Goal: Smart, student-first education<br>
+        🔗 <a href="https://github.com/your-ai-tutor-repo">Coming Soon / GitHub Link</a>
+      </blockquote>
+      <p align="left">
+        <img src="https://img.shields.io/badge/AI-LSTM-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dashboard-Streamlit-orange?style=flat-square&logo=streamlit" />
+        <img src="https://img.shields.io/badge/Tracking-Analytics-brightgreen?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
----
+<hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
 
-## 📈 GitHub Stats  
+<h2 align="center">📈 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shelararti&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arti-shelar&theme=tokyonight" width="48%"/>
 </p>
 
----
+<hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
 
-## 🌐 Connect with Me  
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/arti-shelar-a6b269291"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
   <a href="mailto:shelararti10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://github.com/shelararti"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
-
----
-
-## 🌌 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelararti&theme=react-dark&hide_border=true&area=true" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8AFFEF&height=100&section=footer" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
