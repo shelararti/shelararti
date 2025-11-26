@@ -59,43 +59,6 @@
 
 <hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
 
-<h2 align="center">🧠 Featured Projects</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔊 Voice-Controlled LED System</h3>
-      <blockquote>
-        🎤 Powered by <strong>Google Assistant</strong>, <strong>MQTT</strong>, and <strong>ESP8266</strong><br>
-        💡 Built for <em>Sanjivani 2K25 Hackathon</em><br>
-        🎥 Demo available on request<br>
-        🔗 <a href="https://github.com/your-repo">View on GitHub</a>
-      </blockquote>
-      <p align="left">
-        <img src="https://img.shields.io/badge/IoT-ESP8266-blue?style=flat-square&logo=arduino" />
-        <img src="https://img.shields.io/badge/Protocol-MQTT-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Voice-Google_Assistant-red?style=flat-square&logo=googleassistant" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Tutor: Personalized Learning</h3>
-      <blockquote>
-        🤖 Built with <strong>Deep Learning</strong>, <strong>Streamlit</strong>, and <strong>Optimization</strong><br>
-        📈 Tracks timed MCQs and adapts learning paths<br>
-        🎯 Goal: Smart, student-first education<br>
-        🔗 <a href="https://github.com/your-ai-tutor-repo">Coming Soon / GitHub Link</a>
-      </blockquote>
-      <p align="left">
-        <img src="https://img.shields.io/badge/AI-LSTM-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dashboard-Streamlit-orange?style=flat-square&logo=streamlit" />
-        <img src="https://img.shields.io/badge/Tracking-Analytics-brightgreen?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
