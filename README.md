@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shelararti&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arti-shelar&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shelararti&theme=tokyonight" width="48%"/>
 </p>
 
 <hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
