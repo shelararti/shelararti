@@ -62,8 +62,11 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shelararti&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shelararti&theme=tokyonight" width="48%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shelararti&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shelararti&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelararti&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelararti&theme=tokyo-night"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shelararti&theme=tokyonight"/>
 </p>
 
 <hr style="border: 1px solid #8AFFEF; width: 80%; margin: 40px auto;">
